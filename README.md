@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Proyecto para desarrollar una app móvil que dé a conocer los pueblos de España a lo largo de las carreteras. Forbes informó que el 82% de los españoles prevé hacer turismo rural en 2023. En base a esta afirmación, cada vez vemos más díficil que llegué la información relevante al usuario, y lo que buscamos con esta apliación es acercar la oferta rural teniendo en cuenta las multiples preferencias de cada viajero.
+Proyecto para desarrollar una App móvil que dé a conocer los pueblos de España a lo largo de las carreteras. Forbes informó que el 82% de los españoles prevé hacer turismo rural en 2023. En base a esta afirmación, cada vez vemos más díficil que llegué la información relevante al usuario, y lo que buscamos con esta apliación es acercar la oferta rural teniendo en cuenta las multiples preferencias de cada viajero.
 
 ## Funcionalidades
 
@@ -62,7 +62,10 @@ El diario del viaje (o viaje de Bitácora) nos permitirá descargar o imprimir e
 
 Para finalizar el viaje o la ruta habrá un botón de "Salir" para que dejé de mostrar las notificaciones al usuario en su móvil.
 
-## Contribuidores
+## Contribuidores:
 
-- Nombre Apellido (correo electrónico)
-- Nombre Apellido (correo electrónico)
+- Andrés Eduardo Mata Pérez (Andres.Mata@Olympian.org)
+- Carolina Aideé Rubiano Rojas (Cayruro@gmail.com)
+- David Maroto (Davinchi73@hotmail.com)
+- Emma Pérez Dominguez (Emilypzd@gmail.com)
+- Macarena Farace (Macarenafarace@gmail.com)
